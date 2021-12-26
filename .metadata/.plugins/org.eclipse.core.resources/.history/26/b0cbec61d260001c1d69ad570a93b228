@@ -1,0 +1,31 @@
+package com.SwaggerPOC;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@SpringBootApplication
+public class SwaggerPocApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SwaggerPocApplication.class, args);
+	}
+
+}
+@RestController
+ class EmployeeRestController
+{
+	@GetMapping
+	public List getEmployee()
+	{
+		List list=new ArrayList<>();
+		list.add(101);
+		list.add("TOM");
+		list.add(10000.00);
+		return null;
+	}
+}

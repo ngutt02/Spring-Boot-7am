@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Spring-Boot-Validation"/>
+<aop-project name="Dummy"/>
+<aop-project name="client-app"/>
+<aop-project name="InsertUserDetails"/>
+<aop-project name="Spring-Boot-Core-2"/>
+<aop-project name="mongodb"/>
+<aop-project name="Spring-Boot-Validation-1"/>
+<aop-project name="Ems-With-Profiles"/>
+<aop-project name="Ems-Security-BasicHttpModelApplication"/>
+<aop-project name="ems-client"/>
+<aop-project name="ems"/>
+<aop-project name="pms-2"/>
+<aop-project name="Spring-Boot-Mvc"/>
+<aop-project name="spring-rest-app"/>
+<aop-project name="Ems-InMemoryAuthentication-Security"/>
+<aop-project name="Ems-login-lougout-httpsProtocol-httpSession-accessDenied"/>
+<aop-project name="Ems-JdbcAuthentication"/>
+<aop-project name="Ems-With-Redis-Cache"/>
+<aop-project name="Ems-Security-InMemoryAuthentication"/>
+<aop-project name="Ems-FormBasedSecurity-DataBase"/>
+<aop-project name="AddOrganization"/>
+<aop-project name="pms-1"/>
+<aop-project name="pms"/>
+<aop-project name="demo"/>
+<aop-project name="ems-mongodb"/>
+<aop-project name="client-webapp-2"/>
+<aop-project name="Dummy1"/>
+<aop-project name="Spring-Boot-Validation-2"/>
+<aop-project name="spring-rest-oauth"/>
+</aop-reference-model>

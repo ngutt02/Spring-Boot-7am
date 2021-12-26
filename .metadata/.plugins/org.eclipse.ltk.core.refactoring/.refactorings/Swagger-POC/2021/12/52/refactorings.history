@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.SwaggerPOC&apos; to &apos;com.pack&apos;&#x0D;&#x0A;- Original project: &apos;Swagger-POC&apos;&#x0D;&#x0A;- Original element: &apos;Swagger-POC/src/main/java/com.SwaggerPOC&apos;&#x0D;&#x0A;- Renamed element: &apos;Swagger-POC/src/main/java/com.pack&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update fully qualified names in &apos;*&apos; files&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.SwaggerPOC&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.SwaggerPOC" name="com.pack" patterns="*" qualified="true" references="true" stamp="1639922769178" textual="true" version="1.0"/>
+</session>

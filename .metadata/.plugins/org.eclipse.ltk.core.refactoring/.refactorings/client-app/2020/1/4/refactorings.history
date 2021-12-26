@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;client-webapp-2/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;client-app&apos;&#x0D;&#x0A;- Destination element: &apos;client-webapp-2/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     client-app/src/main/java/com.pack.dto&#x0D;&#x0A;     client-app/src/main/java/com.pack.runner" description="Copy packages" destination="=client-webapp-2/src\/main\/java" element1="/src\/main\/java&lt;com.pack.dto" element2="/src\/main\/java&lt;com.pack.runner" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1579797103758" version="1.0"/>
+</session>

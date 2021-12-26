@@ -1,0 +1,4 @@
+1578457982693	Rename resource 'Ems-Security-BasicHttpModel'
+1578458105215	Rename resource 'Ems-Security-InMemoryAuthentication'
+1578458597329	Delete resource 'Ems-Security-BasicHttpModelApplication'
+1578545725665	Delete resource 'Ems-InMemoryAuthentication-Security'

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.pack.ems.service&apos; to &apos;Ems-With-Profiles/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;Ems-With-Redis-Cache&apos;&#x0D;&#x0A;- Destination element: &apos;Ems-With-Profiles/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;Ems-With-Redis-Cache/src/main/java/com.pack.ems.service&apos;" description="Copy package" destination="=Ems-With-Profiles/src\/main\/java" element1="/src\/main\/java&lt;com.pack.ems.service" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1577683885063" version="1.0"/>
+</session>
